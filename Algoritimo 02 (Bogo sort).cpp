@@ -1,3 +1,5 @@
+//Algoritimo 02 - Bogo sort
+
 #include <bits/stdc++.h>
 using namespace std;
  
